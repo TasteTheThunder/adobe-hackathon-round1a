@@ -1,0 +1,11 @@
+# Requirements for PDF Outline Extractor (1a)
+# Core PDF processing library
+PyMuPDF==1.24.5
+
+# Standard library modules used (no installation needed):
+# - re
+# - json  
+# - argparse
+# - collections
+# - dataclasses
+# - typing
